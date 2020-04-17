@@ -1,2 +1,1 @@
-# compraki-plataform
  
