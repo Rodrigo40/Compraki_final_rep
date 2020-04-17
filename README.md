@@ -1,2 +1,3 @@
-.#Compraki
+
+#Compraki
 Repositório de projecto publico
