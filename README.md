@@ -1,2 +1,2 @@
-# compraki
-Repositório de projecto publico
+# compraki-plataform
+ 
